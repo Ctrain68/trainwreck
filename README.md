@@ -1,4 +1,4 @@
-### AirWeights - Gym Equipment Sharing
+### Gym Equipment Sharing
 
 This is a web application that is an extension of AirBNB's current framework. It is designed with the primary person of connecting people with 
 gym equipment they are no longer using with people who wish to hire the equipment. The target 
